@@ -17,7 +17,7 @@ class PostInstallCommand(install):
 
 setup(
     name='compiler-lab-manual',
-    version='0.1.0',
+    version='1.1.0',
     author='Problem Solver',
     author_email='treecse@gmail.com',
     description='A package for Compiler Lab Manual exercises',
